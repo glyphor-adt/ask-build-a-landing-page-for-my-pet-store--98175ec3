@@ -1,0 +1,12 @@
+/* Custom styles for the pet store landing page */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.hidden {
+    display: none;
+}
+
+.text-center {
+    text-align: center;
+}
